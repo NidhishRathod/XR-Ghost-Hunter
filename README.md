@@ -1,2 +1,2 @@
-# XR-Ghost-Hunter
+# GhostHunter
 XR Ghost Hunter Game

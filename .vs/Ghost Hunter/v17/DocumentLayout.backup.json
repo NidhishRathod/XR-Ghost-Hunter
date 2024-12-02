@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Predator\\Ghost Hunter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Ghost Hunter\\assets\\raygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|solutionrelative:assets\\raygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Ghost Hunter\\assets\\ghostspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|solutionrelative:assets\\ghostspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|c:\\users\\predator\\ghost hunter\\assets\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|solutionrelative:assets\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Ghost Hunter\\assets\\runtimenavmeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|solutionrelative:assets\\runtimenavmeshbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Ghost Hunter\\assets\\orbspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|solutionrelative:assets\\orbspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Ghost Hunter\\assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8C0E0-2486-FF5D-1056-1B5D428D85F1}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManager.cs",
+              "ToolTip": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:05:06.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrbSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\OrbSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbSpawner.cs",
+              "ToolTip": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\OrbSpawner.cs",
+              "RelativeToolTip": "Assets\\OrbSpawner.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:13:40.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RunTimeNavmeshBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\RunTimeNavmeshBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\RunTimeNavmeshBuilder.cs",
+              "ToolTip": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\RunTimeNavmeshBuilder.cs",
+              "RelativeToolTip": "Assets\\RunTimeNavmeshBuilder.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:37:16.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\Ghost.cs",
+              "RelativeDocumentMoniker": "Assets\\Ghost.cs",
+              "ToolTip": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\Ghost.cs",
+              "RelativeToolTip": "Assets\\Ghost.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:23:38.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GhostSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\GhostSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\GhostSpawner.cs",
+              "ToolTip": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\GhostSpawner.cs",
+              "RelativeToolTip": "Assets\\GhostSpawner.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:07:50.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RayGun.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\RayGun.cs",
+              "RelativeDocumentMoniker": "Assets\\RayGun.cs",
+              "ToolTip": "C:\\Users\\Predator\\Ghost Hunter\\Assets\\RayGun.cs",
+              "RelativeToolTip": "Assets\\RayGun.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:09:48.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
